@@ -1,0 +1,1 @@
+# CineMonitor Pro ProGuard rules
